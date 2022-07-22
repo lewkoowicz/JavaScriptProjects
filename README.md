@@ -9,4 +9,4 @@ This repository contains 4 projects I created based on Jonas Schmedtmann's Udemy
     b) user: jd PIN: 2222
     c) user: stw PIN: 3333
     d) user: ss PIN: 4444
-4. Mapty - application for tracking Your workouts with possibility of putting them on a map with data. Built using OOP, Geolocation and External Library.    
+4. Mapty - an application for tracking Your workouts with possibility of putting them on a map with data. Built using OOP, Geolocation and External Library.    
