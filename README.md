@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-This repository contains 3 projects that I created based on Jonas Schmedtmann's Udemy course. 
+This repository contains 4 projects I created based on Jonas Schmedtmann's Udemy course. 
 
 1. Guess My Number  - a simple game where You have to guess a random computer generated number between 1 and 20.
 2. Pig Game - a game for two people, where the player has to collect 100 points in the fastest way, which is the sum of dice throws. Each dice roll of 1 ends the current player's turn.
